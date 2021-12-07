@@ -1,6 +1,10 @@
 Rencana Pembelajaran
 - Belajar HTML
+  * HTML 5
 - Belajar CSS
+  * CSS3
+  * SASS
 - Belajar Javascrip
   * ES6
   * Framework
+    ^ Angular
