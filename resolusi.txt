@@ -2,3 +2,5 @@ RESOLUSI
 - Belajar desain web
 - Belajar pemrograman web
 - Belajar front end
+- Belajar grafik
+- Belajar back end
