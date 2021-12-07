@@ -1,6 +1,9 @@
 Rencana Pembelajaran
 - Belajar HTML
+  * HTML 5
 - Belajar CSS
 - Belajar Javascrip
   * ES6
   * Framework
+    ^ Vue
+    ^ React
